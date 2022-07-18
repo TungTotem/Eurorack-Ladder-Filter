@@ -1,0 +1,69 @@
+Simple ladder filter
+
+Part    Value        Device       Package  Description                          MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+C1      10n          C5/3         C5B3     CAPACITOR                                                        4                     
+C2      100n         C5/3         C5B3     CAPACITOR                                                        4                     
+C3                   C2.5/2       C2.5-2   CAPACITOR                                                        28                    
+C4                   C2.5/2       C2.5-2   CAPACITOR                                                        28                    
+C5                   C2.5/2       C2.5-2   CAPACITOR                                                        28                    
+C6                   C2.5/2       C2.5-2   CAPACITOR                                                        28                    
+C7      4u7          CPOL-USE2-4  E2-4     POLARIZED CAPACITOR, American symbol                                                   
+C8      4u7          CPOL-USE2-4  E2-4     POLARIZED CAPACITOR, American symbol                                                   
+C9      2,2uF        C5/5.5       C5B5.5   CAPACITOR                                                        1                     
+C10     2,2uF        C5/5.5       C5B5.5   CAPACITOR                                                        1                     
+C11     220n         C5/3         C5B3     CAPACITOR                                                        4                     
+C12     2,2uF        C5/5.5       C5B5.5   CAPACITOR                                                        1                     
+C13     2,2uF        C5/5.5       C5B5.5   CAPACITOR                                                        1                     
+C14     10n          C5/3         C5B3     CAPACITOR                                                        4                     
+C15                  CPOL-USE2-4  E2-4     POLARIZED CAPACITOR, American symbol                                                   
+C16     100n         C5/3         C5B3     CAPACITOR                                                        4                     
+D1      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D2      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D3      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D4      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D5      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D6      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D7      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D8      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D9      1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D10     1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D11     1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+D12     1N4148DO35-7 1N4148DO35-7 DO35-7   DIODE                                                            58                    
+FREQ    100k         POTS9MM_VERT 9MM_VERT                                                                                        
+FREQ_CV              1,6/0,9      1,6/0,9  THROUGH-HOLE PAD                                                 7                     
+G0                   1,6/0,9      1,6/0,9  THROUGH-HOLE PAD                                                 7                     
+GAIN    10k          POTS9MM_VERT 9MM_VERT                                                                                        
+GCV                  1,6/0,9      1,6/0,9  THROUGH-HOLE PAD                                                 7                     
+GI                   1,6/0,9      1,6/0,9  THROUGH-HOLE PAD                                                 7                     
+IC1     OPA2134PA    OPA2134PA    DIL08    Dual Operational Amplifier                                       0                     
+IN                   1,6/0,9      1,6/0,9  THROUGH-HOLE PAD                                                 7                     
+OUT                  1,6/0,9      1,6/0,9  THROUGH-HOLE PAD                                                 7                     
+R1      10k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R2      33k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R3      1k           R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R4      2k2          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R5      33k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R6      2k2          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R7      10k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R8      10k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R9      2k2          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R10     100k         R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R11     2k2          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R12     4k7          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R13     1k           R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R14     100k         R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R15     4k7          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R16     6k8          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R17     6k8          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R18     33k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R19     10k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R20     33k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R21     33k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R22     10k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+R23     10k          R-EU_0204/7  0204/7   RESISTOR, European symbol                                        79         R          
+RES     50k          POTS9MM_VERT 9MM_VERT                                                                                        
+SV1                  FE05-2       FE05-2   FEMALE HEADER                               unknown    unknown   3                     
+T1      2SC1815      2SC1815      TO92-ECB NPN EPITAXIAL TRANSISTOR                                         7                     
+T2      2SC1815      2SC1815      TO92-ECB NPN EPITAXIAL TRANSISTOR                                         7                     
+T3      2SC1815      2SC1815      TO92-ECB NPN EPITAXIAL TRANSISTOR                                         7                     
+T4      2SC1815      2SC1815      TO92-ECB NPN EPITAXIAL TRANSISTOR                                         7                     
